@@ -95,6 +95,9 @@ The key questions I will address include:
 3. **Customer City Insights**:
    - This investigation will offer insights into delivery performance and customer satisfaction in different areas, helping the company focus on cities with the highest delays.
 ![DeliveryStatus_Trends_By_Location](https://github.com/Ftsem/Olist-E-commerce-Database-Analysis/blob/f99f1d019e3ddd17f0d2ee07581f34f35736b85c/DeliveryStatus_Trends_By_Location.png)
+
+
+
 ## Insights
 
 1. **Highest Delayed Deliveries by City:**
