@@ -71,5 +71,4 @@ To propose the optimal timing to the company, I focused on identifying trends in
 
 
 
-By analyzing these trends, we can optimize marketing efforts, promotional campaigns, and improve overall sales.
 
