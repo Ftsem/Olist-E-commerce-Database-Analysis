@@ -48,7 +48,7 @@ To propose the optimal timing to the company, I focused on identifying trends in
 
 
 
-### Recommendations
+# Recommendations
 
 #### 1. **Target High-Order Months for Marketing Campaigns:**
 - Focus marketing efforts during **August** and **May**, the months with the highest order counts.
