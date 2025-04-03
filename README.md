@@ -1,4 +1,4 @@
-# Olist-E-commerce-Database-Analysis
+# Olist-E-commerce
 
 Olist is a Brazilian Startup with funding from multiple large banks and companies. It serves a similar niche as Amazon marketplace, connecting small and large sellers to customers on a single website, handling logistics of getting product to the customer from the seller. I have analysed the provided data from 2016 to 2018 to offer data-driven improvements to business operations and strategy.
 
@@ -18,7 +18,7 @@ To propose the optimal timing to the company, I focused on identifying trends in
 ![Order Trends Over Time](https://github.com/Ftsem/Olist-E-commerce-Database-Analysis/blob/0cce2ac808bf69e05f5ad67d3b9f9bba9d7c3370/Order_Trends_Over_Time.png)
 
 
-### Insights
+# Insights
 
 #### 1. Number of Orders by Month
 - **Highest Orders:**
