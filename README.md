@@ -72,7 +72,6 @@ To propose the optimal timing to the company, I focused on identifying trends in
 ---
 
 # 2. Delayed Deliveries Trends By Location
-
 For further investigation, I aim to explore the **relationship between delayed orders** and **different customer cities**. To achieve this, I will be using the `olist_orders_dataset` and `Olist_customer_dataset`.
 
 ### Observations:
