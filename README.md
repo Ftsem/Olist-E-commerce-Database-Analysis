@@ -72,9 +72,7 @@ To propose the optimal timing to the company, I focused on identifying trends in
 ---
 
 # 2. Delayed Deliveries Trends By Location
-For further investigation, I aim to explore the **relationship between delayed orders** and **different customer cities**. To achieve this, I will be using the `olist_orders_dataset` and `Olist_customer_dataset`.
-
-## Observations
+For further investigation, I aim to explore the **relationship between delayed orders** and **different customer cities**. 
 At first glance, I noticed that **São Paulo**, **Rio de Janeiro**, and **Salvador** had the highest number of delayed deliveries. However, this is expected, as these cities are Brazil's largest and most populated. 
 
 ## Next Steps
@@ -94,6 +92,7 @@ The key questions I will address include:
 
 3. **Customer City Insights**:
    - This investigation will offer insights into delivery performance and customer satisfaction in different areas, helping the company focus on cities with the highest delays.
+     -
 ![DeliveryStatus_Trends_By_Location](https://github.com/Ftsem/Olist-E-commerce-Database-Analysis/blob/f99f1d019e3ddd17f0d2ee07581f34f35736b85c/DeliveryStatus_Trends_By_Location.png)
 
 
