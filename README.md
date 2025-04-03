@@ -18,13 +18,6 @@ To propose the optimal timing to the company, I focused on identifying trends in
 ![Order Trends Over Time](https://github.com/Ftsem/Olist-E-commerce-Database-Analysis/blob/0cce2ac808bf69e05f5ad67d3b9f9bba9d7c3370/Order_Trends_Over_Time.png)
 
 
-
-## Order Trends Over Time
-
-As I investigated the Olist dataset, based on the available data, I decided to analyze the data with the goal of increasing the count of orders. One of the ways to improve it was through effective marketing campaigns and sales strategies, and one of the most important factors for a successful campaign or sale was timing.
-
-To propose the optimal timing to the company, I focused on identifying trends in total order counts based on different days, times of day, and months.
-
 ### Insights
 
 #### 1. Number of Orders by Month
