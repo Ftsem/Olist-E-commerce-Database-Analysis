@@ -74,10 +74,10 @@ To propose the optimal timing to the company, I focused on identifying trends in
 # 2. Delayed Deliveries Trends By Location
 For further investigation, I aim to explore the **relationship between delayed orders** and **different customer cities**. To achieve this, I will be using the `olist_orders_dataset` and `Olist_customer_dataset`.
 
-### Observations:
+## Observations
 At first glance, I noticed that **São Paulo**, **Rio de Janeiro**, and **Salvador** had the highest number of delayed deliveries. However, this is expected, as these cities are Brazil's largest and most populated. 
 
-### Next Steps:
+## Next Steps
 To refine the analysis, I decided to understand which cities have the **highest delayed delivery rates** when compared to the total number of deliveries. This will help identify regions with delivery issues relative to their size, rather than just focusing on total order volume.
 
 The key questions I will address include:
@@ -85,7 +85,7 @@ The key questions I will address include:
 - How do these rates compare across different cities, especially in larger versus smaller cities?
 - Can we identify cities that might need additional logistics support or improvements?
 
-### Approach:
+## Approach
 1. **Data Analysis**: 
    - I will calculate the delay rate by dividing the number of delayed deliveries by the total number of deliveries in each city.
    
@@ -126,9 +126,7 @@ The key questions I will address include:
 5. **Regular Monitoring and Feedback Loop:**
    - Continuously monitor the delivery status for each city, especially those with high delay rates. Implement a feedback loop to track improvements after changes in logistics or services are made, ensuring that delivery times are improving and customer satisfaction is rising.
 
----
 
-By focusing on cities with high delivery delay rates, particularly **coastal cities** and **tourist destinations**, this investigation can help guide the company towards making informed decisions regarding delivery logistics, customer satisfaction, and operational efficiencies in different regions.
 
 
 
