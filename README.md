@@ -4,7 +4,7 @@ Olist is a Brazilian Startup with funding from multiple large banks and companie
 
 
 
----
+
 
 
 # Order Trends Over Time
@@ -46,7 +46,7 @@ To propose the optimal timing to the company, I focused on identifying trends in
   - **Night**: 16.06K orders, showing a dip in activity during late hours.
   - **Evening**: 17.84K orders, less than the afternoon but still significant.
 
----
+
 
 ### Recommendations
 
@@ -69,7 +69,7 @@ To propose the optimal timing to the company, I focused on identifying trends in
 #### 5. **Optimize for Weekday Traffic:**
 - As weekdays show higher order volumes, schedule product launches, deals, and campaigns around **Monday to Wednesday** to capture customers when they are most active.
 
----
+
 
 By analyzing these trends, we can optimize marketing efforts, promotional campaigns, and improve overall sales.
 
