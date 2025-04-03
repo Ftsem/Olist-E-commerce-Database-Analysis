@@ -15,7 +15,7 @@ To propose the optimal timing to the company, I focused on identifying trends in
 
 
 
-![Order Trends Over Time](https://github.com/Ftsem/Olist-E-commerce-Database-Analysis/blob/0cce2ac808bf69e05f5ad67d3b9f9bba9d7c3370/Order_Trends_Over_Time.png)
+![Order Trends Over Time](https://github.com/Ftsem/Olist-E-commerce-Database-Analysis/blob/877cbb021f16a91d012221a86d67605a02ffab2d/assets/screenshots/Order_Trends_Over_Time.png)
 
 
 ## Insights
@@ -94,7 +94,7 @@ The key questions I will address include:
    - This investigation will offer insights into delivery performance and customer satisfaction in different areas, helping the company focus on cities with the highest delays.
 
    
-![DeliveryStatus_Trends_By_Location](https://github.com/Ftsem/Olist-E-commerce-Database-Analysis/blob/f99f1d019e3ddd17f0d2ee07581f34f35736b85c/DeliveryStatus_Trends_By_Location.png)
+![DeliveryStatus_Trends_By_Location](https://github.com/Ftsem/Olist-E-commerce-Database-Analysis/blob/877cbb021f16a91d012221a86d67605a02ffab2d/assets/screenshots/DeliveryStatus_Trends_By_Location.png)
 
 
 
