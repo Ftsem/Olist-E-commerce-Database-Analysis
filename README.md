@@ -95,7 +95,7 @@ The key questions I will address include:
 3. **Customer City Insights**:
    - This investigation will offer insights into delivery performance and customer satisfaction in different areas, helping the company focus on cities with the highest delays.
 
-### Insights:
+## Insights
 
 1. **Highest Delayed Deliveries by City:**
    - As shown in the analysis, **São Paulo** and **Rio de Janeiro** have the highest number of delayed deliveries. However, since these cities are more populous, the total order volume is also higher, which is to be expected.
@@ -109,7 +109,7 @@ The key questions I will address include:
 4. **Coastal and Tourist-Heavy Cities:**
    - **Maceió**, **Santarém**, and **Armação dos Búzios** have the highest delayed delivery ratios. Upon further investigation, I found that these cities are coastal and popular tourist destinations. This could impact delivery logistics due to increased seasonal demand, fluctuating population sizes, and potential infrastructure challenges during peak tourist seasons.
 
-### Recommendations:
+## Recommendations
 
 1. **Target High Delay Cities for Operational Improvements:**
    - Focus on cities with high **delayed delivery rates**, such as **Armação dos Búzios**, **Santarém**, and **Maceió**, to identify potential logistical bottlenecks or service inefficiencies. These cities should be prioritized for process improvements, such as optimizing delivery routes or enhancing local delivery infrastructure.
