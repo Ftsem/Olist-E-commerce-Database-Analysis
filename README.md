@@ -69,6 +69,69 @@ To propose the optimal timing to the company, I focused on identifying trends in
 #### 5. **Optimize for Weekday Traffic:**
 - As weekdays show higher order volumes, schedule product launches, deals, and campaigns around **Monday to Wednesday** to capture customers when they are most active.
 
+---
+
+# 2. Delayed Deliveries Trends By Location
+
+For further investigation, I aim to explore the **relationship between delayed orders** and **different customer cities**. To achieve this, I will be using the `olist_orders_dataset` and `Olist_customer_dataset`.
+
+### Observations:
+At first glance, I noticed that **São Paulo**, **Rio de Janeiro**, and **Salvador** had the highest number of delayed deliveries. However, this is expected, as these cities are Brazil's largest and most populated. 
+
+### Next Steps:
+To refine the analysis, I decided to understand which cities have the **highest delayed delivery rates** when compared to the total number of deliveries. This will help identify regions with delivery issues relative to their size, rather than just focusing on total order volume.
+
+The key questions I will address include:
+- Which cities have the highest **delay delivery rates** (delayed deliveries as a percentage of total deliveries)?
+- How do these rates compare across different cities, especially in larger versus smaller cities?
+- Can we identify cities that might need additional logistics support or improvements?
+
+### Approach:
+1. **Data Analysis**: 
+   - I will calculate the delay rate by dividing the number of delayed deliveries by the total number of deliveries in each city.
+   
+2. **City-Level Comparison**:
+   - I'll compare these rates across various cities to identify regions with the highest percentage of delayed orders.
+
+3. **Customer City Insights**:
+   - This investigation will offer insights into delivery performance and customer satisfaction in different areas, helping the company focus on cities with the highest delays.
+
+### Insights:
+
+1. **Highest Delayed Deliveries by City:**
+   - As shown in the analysis, **São Paulo** and **Rio de Janeiro** have the highest number of delayed deliveries. However, since these cities are more populous, the total order volume is also higher, which is to be expected.
+   
+2. **Delayed Delivery Rates:**
+   - When comparing **delayed delivery rates** (delayed orders as a percentage of total deliveries), cities like **Armação dos Búzios** (46.43%) and **Santarém** (34.88%) stand out for having higher proportions of delayed deliveries relative to their order volume. This suggests that these cities may have logistical or infrastructure challenges affecting timely deliveries.
+
+3. **Smaller Cities with Higher Delays:**
+   - While large cities like **São Paulo** and **Rio de Janeiro** have higher raw numbers of delayed deliveries, some smaller cities such as **Armação dos Búzios**, **Maceió**, and **Santarém** have significantly higher rates of delayed deliveries per order. This could indicate that smaller cities are facing unique challenges that may not be as apparent in larger metropolitan areas.
+
+4. **Coastal and Tourist-Heavy Cities:**
+   - **Maceió**, **Santarém**, and **Armação dos Búzios** have the highest delayed delivery ratios. Upon further investigation, I found that these cities are coastal and popular tourist destinations. This could impact delivery logistics due to increased seasonal demand, fluctuating population sizes, and potential infrastructure challenges during peak tourist seasons.
+
+### Recommendations:
+
+1. **Target High Delay Cities for Operational Improvements:**
+   - Focus on cities with high **delayed delivery rates**, such as **Armação dos Búzios**, **Santarém**, and **Maceió**, to identify potential logistical bottlenecks or service inefficiencies. These cities should be prioritized for process improvements, such as optimizing delivery routes or enhancing local delivery infrastructure.
+
+2. **Scale Logistics Support in Smaller Cities and Tourist Areas:**
+   - While large cities will naturally have more delays due to their size and order volume, smaller coastal cities with high delayed delivery rates, such as **Armação dos Búzios** and **Maceió**, should receive more targeted logistics support. Enhance shipping times or offer local incentives for faster deliveries, especially during tourist seasons when demand spikes.
+
+3. **Address Seasonal Demand in Tourist Destinations:**
+   - **Maceió**, **Armação dos Búzios**, and **Santarém** experience higher delayed delivery ratios due to their status as **tourist hotspots**. During peak tourist seasons, these cities face an influx of visitors, which can strain logistics and delivery systems. Consider offering **seasonal delivery options** or **temporary delivery hubs** in these cities to handle increased demand.
+
+4. **Data-Driven Campaigns for Larger Cities:**
+   - For cities like **São Paulo**, **Rio de Janeiro**, and **Salvador**, it may be more effective to focus on improving customer communication and offering incentives for customers to choose alternative delivery times (e.g., choosing faster delivery options), as they are already dealing with high volumes.
+
+5. **Regular Monitoring and Feedback Loop:**
+   - Continuously monitor the delivery status for each city, especially those with high delay rates. Implement a feedback loop to track improvements after changes in logistics or services are made, ensuring that delivery times are improving and customer satisfaction is rising.
+
+---
+
+By focusing on cities with high delivery delay rates, particularly **coastal cities** and **tourist destinations**, this investigation can help guide the company towards making informed decisions regarding delivery logistics, customer satisfaction, and operational efficiencies in different regions.
+
+
 
 
 
